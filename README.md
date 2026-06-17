@@ -42,50 +42,6 @@ This repository showcases my Machine Learning projects where I apply data prepro
 
 ---
 
-## 🚀 Upcoming Projects
-
-### 2. Customer Churn Prediction
-
-**Tools:** Python, Scikit-Learn, Pandas
-
-Features:
-
-* Customer Retention Analysis
-* Churn Risk Prediction
-* Business Insight Generation
-
-📄 Case Study
-
----
-
-### 3. House Price Prediction
-
-**Tools:** Python, Machine Learning
-
-Features:
-
-* Real Estate Price Forecasting
-* Regression Modeling
-* Feature Engineering
-
-📄 Case Study
-
----
-
-### 4. Employee Attrition Prediction
-
-**Tools:** Python, Scikit-Learn
-
-Features:
-
-* HR Analytics
-* Employee Turnover Prediction
-* Workforce Insights
-
-📄 Case Study
-
----
-
 # 🛠 Skills
 
 ### Programming
