@@ -38,7 +38,7 @@ This repository showcases my Machine Learning projects where I apply data prepro
 * Model Deployment
 * Python Development
 
-📄 Case Study
+📄 [Case Study](./Diabetes-Prediction-System/Case-Study.md)
 
 ---
 
