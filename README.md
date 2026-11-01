@@ -14,31 +14,65 @@ This repository showcases my Machine Learning projects where I apply data prepro
 
 ### Features
 
-* Data Cleaning & Preprocessing
-* Feature Scaling using StandardScaler
-* Support Vector Machine (SVM) Model
-* Real-Time Diabetes Prediction
-* Model Serialization using Pickle
-* Interactive User Interface
+- Data Cleaning & Preprocessing
+- Feature Scaling using StandardScaler
+- Support Vector Machine (SVM) Model
+- Real-Time Diabetes Prediction
+- Model Serialization using Pickle
+- Interactive User Interface
 
 ### Machine Learning Workflow
 
-* Data Collection
-* Data Preprocessing
-* Feature Engineering
-* Model Training
-* Model Evaluation
-* Model Deployment
+- Data Collection
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Model Deployment
 
 ### Skills Demonstrated
 
-* Machine Learning
-* Data Analysis
-* Classification Models
-* Model Deployment
-* Python Development
+- Machine Learning
+- Data Analysis
+- Classification Models
+- Model Deployment
+- Python Development
 
 📄 [Case Study](./Diabetes-Prediction-System/Case-Study.md)
+
+---
+
+## 2. Customer Churn ML Project 📊
+
+**Tools:** Python, Pandas, NumPy, Scikit-Learn, Streamlit, Matplotlib, Seaborn
+
+### Features
+
+- Exploratory Data Analysis & Visualization
+- Feature Encoding & Numerical Scaling
+- Supervised Classification Modeling
+- Serialized Model & Scaler Artifacts
+- Real-Time Churn Risk Web Interface
+- Complete Project Dependencies Management
+
+### Machine Learning Workflow
+
+- Data Collection
+- Data Preprocessing & Scaling
+- Feature Engineering
+- Model Training & Evaluation
+- Artifact Serialization (.pkl)
+- Web Application Deployment
+
+### Skills Demonstrated
+
+- Customer Churn Analysis
+- Predictive Modeling
+- Feature Scaling & Encoding
+- Interactive UI Development
+- Machine Learning Deployment
+
+📄 [Case Study](./Customer-Churn-ML-Project/Case-Study.md)
 
 ---
 
@@ -46,33 +80,33 @@ This repository showcases my Machine Learning projects where I apply data prepro
 
 ### Programming
 
-* Python
+- Python
 
 ### Data Analysis
 
-* Pandas
-* NumPy
-* Data Cleaning
-* Data Preprocessing
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Preprocessing
 
 ### Machine Learning
 
-* Scikit-Learn
-* Classification Models
-* Regression Models
-* Feature Engineering
-* Model Evaluation
+- Scikit-Learn
+- Classification Models
+- Regression Models
+- Feature Engineering
+- Model Evaluation
 
 ### Deployment
 
-* Streamlit
-* Flask
-* Pickle
+- Streamlit
+- Flask
+- Pickle
 
 ### Version Control
 
-* Git
-* GitHub
+- Git
+- GitHub
 
 ---
 
@@ -80,12 +114,12 @@ This repository showcases my Machine Learning projects where I apply data prepro
 
 As a Computer Science student and aspiring Data Analyst/Machine Learning Engineer, I continuously build projects to strengthen my skills in:
 
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence
-* Predictive Modeling
-* Data Visualization
-* Business Problem Solving
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Predictive Modeling
+- Data Visualization
+- Business Problem Solving
 
 ---
 
